@@ -5,9 +5,9 @@ body {
   margin: 0;
   font-family: "Aref-Ruqaa", cursive;
   color: #e9edf1;
-background: radial-gradient(1200px 800px at 20% 10%, #1b2133 0%, transparent 55%),
-              radial-gradient(1000px 700px at 80% 90%, #101726 0%, transparent 60%),
-              linear-gradient(180deg, #0b0f18 0%, #090d14 100%);
+background: radial-gradient(1200px 800px at 20% 10%, #2a1b3d 0%, transparent 55%),
+            radial-gradient(1000px 700px at 80% 90%, #1a1026 0%, transparent 60%),
+            linear-gradient(180deg, #11001a 0%, #0a0010 100%);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -188,3 +188,4 @@ input[type="button"]:active, .btn.btn-dark:active { transform: translateY(0); }
   .fragefalt { border-radius: 16px; min-height: 520px; }
   .fragefalt-Answers label { padding: 10px 12px; }
 }
+
